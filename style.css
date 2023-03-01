@@ -1,0 +1,38 @@
+div{
+    background-color: rgb(151, 194, 192);
+    width: 500px;
+    height: 600px;
+    margin: 70px auto;
+border-right: 1px double gray;
+border-left: 1px double gray;
+border-bottom: 1px double gray;
+box-shadow: 1px 1px 10px silver;
+
+}
+div input{
+    display: block;
+margin-top: 15px;
+margin-bottom: 15px;
+width: 300px;
+padding: 10px;
+
+
+}
+
+div img{
+
+    margin-top: 10px;
+
+
+}
+
+div input[type="submit"]{
+
+    width: 300px;
+
+    background-color: royalblue;
+    color: aliceblue;
+    font-size: 20px;
+    cursor:pointer;
+    border: none;
+}
